@@ -1,0 +1,3 @@
+2021-08-11 15:39:00: gdalinfo -json  -stats /Users/huanglingcao/Data/getVelocityfromRSimage_test/pre_processing_saved/LC81400412015065LGN00_B8.TIF
+2021-08-11 15:39:00: ERROR 4: /Users/huanglingcao/Data/getVelocityfromRSimage_test/pre_processing_saved/LC81400412015065LGN00_B8.TIF: No such file or directory
+gdalinfo failed - unable to open '/Users/huanglingcao/Data/getVelocityfromRSimage_test/pre_processing_saved/LC81400412015065LGN00_B8.TIF'.
