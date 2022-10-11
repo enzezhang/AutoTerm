@@ -26,3 +26,6 @@ code for merge individual terminus traces into a single shapefile
 ### GEE
 
 code for automating data collection
+
+
+#### the directory in the code need to be changed before using
